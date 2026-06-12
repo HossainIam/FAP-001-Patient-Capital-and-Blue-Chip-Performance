@@ -1,4 +1,4 @@
-# Home of Patient Capital
+# An Institutional Analysis of the German Corporate Ecosystem and the DAX-5 tyhis 
 
 
 
