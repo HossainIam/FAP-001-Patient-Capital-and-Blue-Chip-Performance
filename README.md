@@ -1,6 +1,8 @@
 # Home of Patient Capital
 
-# FAP-001: German Stock Market Analysis
+
+
+
 
 ## 1. Project Overview
 
