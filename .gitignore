@@ -6,6 +6,17 @@ __pycache__/
 # C extensions
 *.so
 
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.env
+# data/raw/
+# data/processed/
+
+
+
+
 # Distribution / packaging
 .Python
 build/
@@ -216,3 +227,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
