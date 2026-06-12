@@ -1,4 +1,4 @@
-Analyze the German stock market and identify the characteristics, performance, and risk profile of leading German companies.
+# Home of Patient Capital
 
 # FAP-001: German Stock Market Analysis
 
